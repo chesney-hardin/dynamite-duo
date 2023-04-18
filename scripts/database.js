@@ -10,7 +10,7 @@ const database = {
             name: "Hyperspeed",
             power: "Super speed"
         }
-    ]
+    ],
 
     villains: [
         {
