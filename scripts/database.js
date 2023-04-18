@@ -11,7 +11,6 @@ const database = {
             power: "Super speed"
         }
     ],
-
     villains: [
         {
             id: 1,

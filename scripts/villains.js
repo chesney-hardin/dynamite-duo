@@ -7,9 +7,9 @@ export const VillainList = () => {
 
     for (const villain of villains) {
         villainHTML += `<li>${villain.name}</li>`
-
-        villainHTML += "</ul>"
-
-        return villainHTML
     }
+
+    villainHTML += "</ul>"
+
+    return villainHTML
 }
